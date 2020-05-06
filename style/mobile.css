@@ -305,6 +305,22 @@
     }
 }   
 @media screen and (max-width: 600px){
+    .new-blue-btn-modifire{
+        padding-top: 15px;
+        height: auto;
+        padding-bottom: 15px;
+        text-align: left;
+    }
+    .bottom-low-title-item{
+        margin: 0;
+        padding-bottom: 35px;
+    }
+    .about-bottom-text.last{
+        padding-bottom: 60px;
+    }
+    .title-profile-page.last{
+        margin-bottom: 20px;
+    }
     .title-contact{
         font-size: 26px;
     }
