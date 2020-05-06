@@ -306,7 +306,7 @@
 }   
 @media screen and (max-width: 600px){
     .title-contact{
-        font-size: 26px ;
+        font-size: 26px;
     }
     .bottom-section{
         padding-bottom: 100px;
@@ -314,7 +314,7 @@
     .btn-order{
         width: 100%;
         position: relative;
-        margin-top: 40px;
+        margin-top: 55px;
         right: 0;
         margin-bottom: 30px;
     }
@@ -379,17 +379,21 @@
     }
     .light-flex-icon{
         position: relative;
-        top: initial;
+        margin-top: 25px;
+        transform: initial;
     }
     .center-items-header{
         position: relative;
-        padding-top: 25px;
+        padding-top: 0px;
     }
     .bars-box{
-        top: 15px;
+        top: 5px;
     }
     header.light{
         padding-top: 0;
+    }
+    .bottom-next{
+        padding-top: 60px;
     }
 }
 

@@ -1185,3 +1185,17 @@ header.light .bars-box span{
 .bottom-section{
     padding-bottom: 80px;
 }
+.works-text{
+    margin-bottom: 60px;
+}
+.default-chapters{
+    position: relative;
+    width: 100%;
+}
+.abouts-section{
+    padding-top: 0;
+    padding-bottom: 100px;
+}
+.bottom-next{
+    padding-top: 100px;
+}
